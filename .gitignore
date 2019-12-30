@@ -1,7 +1,10 @@
 __pycache__/
 redundant/
-*.bat
-setup.py
 build/
 pysteam/
 releases/
+
+*.bat
+*.vdf
+
+setup.py
